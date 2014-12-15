@@ -1,0 +1,16 @@
+{
+  "name": "fis-preprocessor-jpl",
+  "version": "0.0.1",
+  "description": "parse tmplate to js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "jpl",
+    "yii"
+  ],
+  "author": "gomydodo",
+  "license": "BSD"
+}
